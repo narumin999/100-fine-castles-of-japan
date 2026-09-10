@@ -1,0 +1,21 @@
+[
+  {
+    "id": "castle_001",
+    "name": "弘前城",
+    "type": "100名城",
+    "prefecture": "青森県",
+    "lat": 40.6075,
+    "lng": 140.4644,
+    "description": "弘前藩津軽家の居城。天守や3棟の櫓などが現存する。",
+    "officialUrl": "https://www.city.hirosaki.aomori.jp/kakuka/toshiseisaku/hirosakijo.html"
+  },
+  {
+    "id": "castle_101",
+    "name": "根城",
+    "type": "続100名城",
+    "prefecture": "青森県",
+    "lat": 40.5083,
+    "lng": 141.4503,
+    "description": "南部氏によって築かれた城。国の史跡に指定されている。"
+  }
+]
